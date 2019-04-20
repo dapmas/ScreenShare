@@ -1,0 +1,15 @@
+{
+  "name": "screenshareapp",
+  "version": "1.0.0",
+  "description": "A screen share app using web-rtc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-js",
+    "web-rtc"
+  ],
+  "author": "sampad",
+  "license": "ISC"
+}
